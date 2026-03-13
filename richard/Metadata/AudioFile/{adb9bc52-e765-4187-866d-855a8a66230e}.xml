@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+<<<<<<<< HEAD:richard/Metadata/AudioFile/{a5228343-085b-4edb-a811-ffb5535e3e2e}.xml
+	<object class="AudioFile" id="{a5228343-085b-4edb-a811-ffb5535e3e2e}">
+========
+	<object class="AudioFile" id="{adb9bc52-e765-4187-866d-855a8a66230e}">
+>>>>>>>> victor:richard/Metadata/AudioFile/{adb9bc52-e765-4187-866d-855a8a66230e}.xml
+		<property name="assetPath">
+			<value>gunshot_original.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f66180c0-636e-4e14-85ca-335a48cd6e1a}</destination>
+		</relationship>
+	</object>
+</objects>
