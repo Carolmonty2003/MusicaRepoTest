@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{28dfe20f-5886-4426-8a22-fe457ac64cba}">
+	<object class="AudioFile" id="{b4240f1b-839d-4719-bcf6-5c4e2ce86912}">
 		<property name="assetPath">
-			<value>ambience_indoor_original.wav</value>
+			<value>258749-KAIB-FOL-CU-Suction_Cup_Pops_Soft-000530.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>15.92</value>
+			<value>35.776000000000003</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{f66180c0-636e-4e14-85ca-335a48cd6e1a}</destination>
